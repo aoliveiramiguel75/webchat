@@ -1,0 +1,18 @@
+body {
+    background-color: azure;
+}
+
+#margin {
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+#corfundo {
+    background-color: azure;
+}
+
+#corfundobotoes {
+    background-color: rgb(209, 236, 236);
+}
